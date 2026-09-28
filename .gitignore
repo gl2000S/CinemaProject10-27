@@ -1,0 +1,13 @@
+# Compiled Java
+*.class
+target
+bin
+out
+
+# Editor / OS
+.vscode
+.idea
+.DS_Store
+
+# Secrets
+.env
